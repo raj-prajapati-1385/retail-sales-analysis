@@ -1,0 +1,8 @@
+- Python: The primary programming language.
+- pandas: Used for data manipulation and analysis.
+- numpy: Used for numerical operations (often used in conjunction with pandas).
+- matplotlib: Used for creating visualizations.
+- seaborn: Used for creating aesthetically pleasing statistical graphics (built on top of matplotlib).
+- Google Colab: The environment where the notebook is being run.
+- google.colab.files: Used for uploading files to the Colab environment.
+- IPython.display: Used for displaying images and other rich output in the notebook.
